@@ -1,0 +1,5 @@
+build
+*.hex
+*.s19
+*.bin
+*.info

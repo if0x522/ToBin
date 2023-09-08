@@ -1,0 +1,12 @@
+{
+    "files.associations": {},
+    "C_Cpp.default.includePath": [
+        "D:\\Program Files\\w64devkit\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include",
+        "./inc",
+    ],
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "C_Cpp.default.defines": [],
+    "cmake.configureOnOpen": false,
+    "cmake.statusbar.visibility": "default",
+}
